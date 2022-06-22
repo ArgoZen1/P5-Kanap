@@ -1,3 +1,11 @@
+# Construisez un site e-commerce en JavaScript
+
+1. Valider des données issues de sources externes
+2. Gérer des événements JavaScript
+3. Créer un plan de test pour une application
+4. Interagir avec un web service avec JavaScript
+
+
 # Kanap #
 
 This is the front end and back end server for Project 5 of the Web Developer path.
