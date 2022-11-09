@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/95536872/200817023-a8d9e7a9-fb95-432b-8681-6c2eaf7640e4.png)
+
+
 # Construisez un site e-commerce en JavaScript
 
 1. Valider des données issues de sources externes
